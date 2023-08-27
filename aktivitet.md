@@ -1,6 +1,6 @@
 ---
 title: "Aktivitet"
-order: 4
+order: 2
 ---
 # Allheimen
 
