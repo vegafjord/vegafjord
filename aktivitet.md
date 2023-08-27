@@ -2,8 +2,6 @@
 title: "Aktivitet"
 order: 2
 ---
-# Aktivitet
-
 Eg er veldig skeptisk til imperialistiske samfunn, difor omgår eg å bruka tenestar som facebook, youtube og instagram. 
 
 Istaden er nesten utelukkande på samheimen. 
