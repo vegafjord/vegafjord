@@ -8,8 +8,8 @@ Eg er veldig skeptisk til imperialistiske samfunn, difor omgår eg å bruka tene
 
 Istaden er nesten utelukkande på samheimen. 
 
-Nordheim: (@vegafjord@fribygda.no)[https://fribygda.no/@vegafjord]
+Nordheim: [@vegafjord@fribygda.no](https://fribygda.no/@vegafjord)
 
-Angloheim: (@vegafjord@freeradical.zone)[https://freeradical.zone/@vegafjord]
+Angloheim: [@vegafjord@freeradical.zone](https://freeradical.zone/@vegafjord)
 
-Esperantujo: (@vegafjordo@esperanto.masto.host)[https://esperanto.masto.host/@vegafjordo] 
+Esperantujo: [@vegafjordo@esperanto.masto.host](https://esperanto.masto.host/@vegafjordo) 
